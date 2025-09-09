@@ -21,11 +21,6 @@ echo   "deb [arch=$(dpkg --print-architecture) signed-by=/etc/apt/keyrings/docke
 sudo apt update
 sudo apt install -y docker-ce docker-ce-cli containerd.io docker-compose-plugin
 ```
-
-### macOS
-- Download [Docker Desktop](https://www.docker.com/products/docker-desktop/).
-- Install and start Docker Desktop.
-
 ### Windows
 - Install **Docker Desktop for Windows**.
 - Enable **WSL2 Backend**.
