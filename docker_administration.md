@@ -69,8 +69,6 @@ docker rm <container_id>
 ### Restart Container
 ```
 docker restart <container_id>
-docker restart <container_id>
-docker restart <container_id>
 ```
 ---
 
