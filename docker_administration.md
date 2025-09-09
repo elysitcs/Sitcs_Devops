@@ -66,7 +66,12 @@ docker stop <container_id>
 docker start <container_id>
 docker rm <container_id>
 ```
-
+### Restart Container
+```
+docker restart <container_id>
+docker restart <container_id>
+docker restart <container_id>
+```
 ---
 
 ## 📂 3. Images
