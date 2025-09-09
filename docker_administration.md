@@ -30,6 +30,16 @@ sudo apt install -y docker-ce docker-ce-cli containerd.io docker-compose-plugin
 - Install **Docker Desktop for Windows**.
 - Enable **WSL2 Backend**.
 
+### Linux Amazon EC2
+```
+sudo yum update -y
+sudo amazon-linux-extras install docker -y
+sudo service docker start
+sudo usermod -a -G docker ec2-user
+
+sudo systemctl enable docker (Auto Start on Boot)
+```
+
 Verify installation:
 ```bash
 docker --version
