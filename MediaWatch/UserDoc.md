@@ -643,248 +643,248 @@ Este reporte permite visualizar como se han distribuido las noticias por categor
 
 Ilustración 102. Reporte por categorías y fecha.
 
-![Imagen 1](image_1.png)
+![Imagen 1](images/image_1.png)
 
-![Imagen 2](image_2.png)
+![Imagen 2](images/image_2.png)
 
-![Imagen 3](image_3.png)
+![Imagen 3](images/image_3.png)
 
-![Imagen 4](image_4.png)
+![Imagen 4](images/image_4.png)
 
-![Imagen 5](image_5.png)
+![Imagen 5](images/image_5.png)
 
-![Imagen 6](image_6.png)
+![Imagen 6](images/image_6.png)
 
-![Imagen 7](image_7.png)
+![Imagen 7](images/image_7.png)
 
-![Imagen 8](image_8.png)
+![Imagen 8](images/image_8.png)
 
-![Imagen 9](image_9.png)
+![Imagen 9](images/image_9.png)
 
-![Imagen 10](image_10.png)
+![Imagen 10](images/image_10.png)
 
-![Imagen 11](image_11.png)
+![Imagen 11](images/image_11.png)
 
-![Imagen 12](image_12.png)
+![Imagen 12](images/image_12.png)
 
-![Imagen 13](image_13.png)
+![Imagen 13](images/image_13.png)
 
-![Imagen 14](image_14.png)
+![Imagen 14](images/image_14.png)
 
-![Imagen 15](image_15.png)
+![Imagen 15](images/image_15.png)
 
-![Imagen 16](image_16.png)
+![Imagen 16](images/image_16.png)
 
-![Imagen 17](image_17.png)
+![Imagen 17](images/image_17.png)
 
-![Imagen 18](image_18.png)
+![Imagen 18](images/image_18.png)
 
-![Imagen 19](image_19.png)
+![Imagen 19](images/image_19.png)
 
-![Imagen 20](image_20.png)
+![Imagen 20](images/image_20.png)
 
-![Imagen 21](image_21.png)
+![Imagen 21](images/image_21.png)
 
-![Imagen 22](image_22.png)
+![Imagen 22](images/image_22.png)
 
-![Imagen 23](image_23.png)
+![Imagen 23](images/image_23.png)
 
-![Imagen 24](image_24.png)
+![Imagen 24](images/image_24.png)
 
-![Imagen 25](image_25.png)
+![Imagen 25](images/image_25.png)
 
-![Imagen 26](image_26.png)
+![Imagen 26](images/image_26.png)
 
-![Imagen 27](image_27.png)
+![Imagen 27](images/image_27.png)
 
-![Imagen 28](image_28.png)
+![Imagen 28](images/image_28.png)
 
-![Imagen 29](image_29.png)
+![Imagen 29](images/image_29.png)
 
-![Imagen 30](image_30.png)
+![Imagen 30](images/image_30.png)
 
-![Imagen 31](image_31.png)
+![Imagen 31](images/image_31.png)
 
-![Imagen 32](image_32.png)
+![Imagen 32](images/image_32.png)
 
-![Imagen 33](image_33.png)
+![Imagen 33](images/image_33.png)
 
-![Imagen 34](image_34.png)
+![Imagen 34](images/image_34.png)
 
-![Imagen 35](image_35.png)
+![Imagen 35](images/image_35.png)
 
-![Imagen 36](image_36.png)
+![Imagen 36](images/image_36.png)
 
-![Imagen 37](image_37.png)
+![Imagen 37](images/image_37.png)
 
-![Imagen 38](image_38.png)
+![Imagen 38](images/image_38.png)
 
-![Imagen 39](image_39.png)
+![Imagen 39](images/image_39.png)
 
-![Imagen 40](image_40.png)
+![Imagen 40](images/image_40.png)
 
-![Imagen 41](image_41.png)
+![Imagen 41](images/image_41.png)
 
-![Imagen 42](image_42.png)
+![Imagen 42](images/image_42.png)
 
-![Imagen 43](image_43.png)
+![Imagen 43](images/image_43.png)
 
-![Imagen 44](image_44.png)
+![Imagen 44](images/image_44.png)
 
-![Imagen 45](image_45.png)
+![Imagen 45](images/image_45.png)
 
-![Imagen 46](image_46.png)
+![Imagen 46](images/image_46.png)
 
-![Imagen 47](image_47.png)
+![Imagen 47](images/image_47.png)
 
-![Imagen 48](image_48.png)
+![Imagen 48](images/image_48.png)
 
-![Imagen 49](image_49.png)
+![Imagen 49](images/image_49.png)
 
-![Imagen 50](image_50.png)
+![Imagen 50](images/image_50.png)
 
-![Imagen 51](image_51.png)
+![Imagen 51](images/image_51.png)
 
-![Imagen 52](image_52.png)
+![Imagen 52](images/image_52.png)
 
-![Imagen 53](image_53.png)
+![Imagen 53](images/image_53.png)
 
-![Imagen 54](image_54.png)
+![Imagen 54](images/image_54.png)
 
-![Imagen 55](image_55.png)
+![Imagen 55](images/image_55.png)
 
-![Imagen 56](image_56.png)
+![Imagen 56](images/image_56.png)
 
-![Imagen 57](image_57.png)
+![Imagen 57](images/image_57.png)
 
-![Imagen 58](image_58.png)
+![Imagen 58](images/image_58.png)
 
-![Imagen 59](image_59.png)
+![Imagen 59](images/image_59.png)
 
-![Imagen 60](image_60.png)
+![Imagen 60](images/image_60.png)
 
-![Imagen 61](image_61.png)
+![Imagen 61](images/image_61.png)
 
-![Imagen 62](image_62.png)
+![Imagen 62](images/image_62.png)
 
-![Imagen 63](image_63.png)
+![Imagen 63](images/image_63.png)
 
-![Imagen 64](image_64.png)
+![Imagen 64](images/image_64.png)
 
-![Imagen 65](image_65.png)
+![Imagen 65](images/image_65.png)
 
-![Imagen 66](image_66.png)
+![Imagen 66](images/image_66.png)
 
-![Imagen 67](image_67.png)
+![Imagen 67](images/image_67.png)
 
-![Imagen 68](image_68.png)
+![Imagen 68](images/image_68.png)
 
-![Imagen 69](image_69.png)
+![Imagen 69](images/image_69.png)
 
-![Imagen 70](image_70.png)
+![Imagen 70](images/image_70.png)
 
-![Imagen 71](image_71.png)
+![Imagen 71](images/image_71.png)
 
-![Imagen 72](image_72.png)
+![Imagen 72](images/image_72.png)
 
-![Imagen 73](image_73.png)
+![Imagen 73](images/image_73.png)
 
-![Imagen 74](image_74.png)
+![Imagen 74](images/image_74.png)
 
-![Imagen 75](image_75.png)
+![Imagen 75](images/image_75.png)
 
-![Imagen 76](image_76.png)
+![Imagen 76](images/image_76.png)
 
-![Imagen 77](image_77.png)
+![Imagen 77](images/image_77.png)
 
-![Imagen 78](image_78.png)
+![Imagen 78](images/image_78.png)
 
-![Imagen 79](image_79.png)
+![Imagen 79](images/image_79.png)
 
-![Imagen 80](image_80.png)
+![Imagen 80](images/image_80.png)
 
-![Imagen 81](image_81.png)
+![Imagen 81](images/image_81.png)
 
-![Imagen 82](image_82.png)
+![Imagen 82](images/image_82.png)
 
-![Imagen 83](image_83.png)
+![Imagen 83](images/image_83.png)
 
-![Imagen 84](image_84.png)
+![Imagen 84](images/image_84.png)
 
-![Imagen 85](image_85.png)
+![Imagen 85](images/image_85.png)
 
-![Imagen 86](image_86.png)
+![Imagen 86](images/image_86.png)
 
-![Imagen 87](image_87.png)
+![Imagen 87](images/image_87.png)
 
-![Imagen 88](image_88.png)
+![Imagen 88](images/image_88.png)
 
-![Imagen 89](image_89.png)
+![Imagen 89](images/image_89.png)
 
-![Imagen 90](image_90.png)
+![Imagen 90](images/image_90.png)
 
-![Imagen 91](image_91.png)
+![Imagen 91](images/image_91.png)
 
-![Imagen 92](image_92.png)
+![Imagen 92](images/image_92.png)
 
-![Imagen 93](image_93.png)
+![Imagen 93](images/image_93.png)
 
-![Imagen 94](image_94.png)
+![Imagen 94](images/image_94.png)
 
-![Imagen 95](image_95.png)
+![Imagen 95](images/image_95.png)
 
-![Imagen 96](image_96.png)
+![Imagen 96](images/image_96.png)
 
-![Imagen 97](image_97.png)
+![Imagen 97](images/image_97.png)
 
-![Imagen 98](image_98.png)
+![Imagen 98](images/image_98.png)
 
-![Imagen 99](image_99.png)
+![Imagen 99](images/image_99.png)
 
-![Imagen 100](image_100.png)
+![Imagen 100](images/image_100.png)
 
-![Imagen 101](image_101.png)
+![Imagen 101](images/image_101.png)
 
-![Imagen 102](image_102.png)
+![Imagen 102](images/image_102.png)
 
-![Imagen 103](image_103.png)
+![Imagen 103](images/image_103.png)
 
-![Imagen 104](image_104.png)
+![Imagen 104](images/image_104.png)
 
-![Imagen 105](image_105.png)
+![Imagen 105](images/image_105.png)
 
-![Imagen 106](image_106.png)
+![Imagen 106](images/image_106.png)
 
-![Imagen 107](image_107.png)
+![Imagen 107](images/image_107.png)
 
-![Imagen 108](image_108.png)
+![Imagen 108](images/image_108.png)
 
-![Imagen 109](image_109.png)
+![Imagen 109](images/image_109.png)
 
-![Imagen 110](image_110.png)
+![Imagen 110](images/image_110.png)
 
-![Imagen 111](image_111.png)
+![Imagen 111](images/image_111.png)
 
-![Imagen 112](image_112.png)
+![Imagen 112](images/image_112.png)
 
-![Imagen 113](image_113.png)
+![Imagen 113](images/image_113.png)
 
-![Imagen 114](image_114.png)
+![Imagen 114](images/image_114.png)
 
-![Imagen 115](image_115.png)
+![Imagen 115](images/image_115.png)
 
-![Imagen 116](image_116.png)
+![Imagen 116](images/image_116.png)
 
-![Imagen 117](image_117.png)
+![Imagen 117](images/image_117.png)
 
-![Imagen 118](image_118.png)
+![Imagen 118](images/image_118.png)
 
-![Imagen 119](image_119.png)
+![Imagen 119](images/image_119.png)
 
-![Imagen 120](image_120.png)
+![Imagen 120](images/image_120.png)
 
-![Imagen 121](image_121.png)
+![Imagen 121](images/image_121.png)
 
-![Imagen 122](image_122.png)
+![Imagen 122](images/image_122.png)
 
-![Imagen 123](image_123.png)
+![Imagen 123](images/image_123.png)
