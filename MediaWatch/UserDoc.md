@@ -18,13 +18,9 @@ Media Watch es una herramienta creada a la medida de las necesidades de la empre
 Para acceder a la plataforma, el administrador les crea sus usuarios con su dirección de correo electrónica y sus datos generales, al final, va a recibir un correo con las siguientes informaciones: usuario y contraseña temporal para acceder al sistema a través de un enlace de activación de cuenta. Solo debe ingresar con las credenciales que ha recibido en el correo electrónico para acceder a la aplicación.
 
 ![Imagen 109](images/image_109.png)
-Ilustración 1. Ejemplo de correo recibido por parte de la plataforma MediaWatch.
+```Ilustración 1. Ejemplo de correo recibido por parte de la plataforma MediaWatch.```
 
-```bash
-
-Paso a paso:
-
-```
+#### Paso a paso:
 
 - En su bandeja de correo electrónico va a recibir un correo con las credenciales para acceder a la aplicación.
 
@@ -36,31 +32,36 @@ Paso a paso:
 
 Una vez utilizamos el enlace para acceder a la herramienta, debemos colocar nuestro usuario y clave. Pulsamos “Login” para que el sistema realice la validación de tus credenciales y preferencias para permitir el acceso al sistema de acuerdo con el perfil definido.
 
-Ilustración 2 - Portal de acceso Media Watch.
+![Imagen 8](images/image_8.png)
+```Ilustración 2 - Portal de acceso Media Watch. ```
 
 Si los datos de acceso son correctos, accederás al sistema de acuerdo con los permisos definidos para tu perfil. El sistema carga con un tablero que muestra las noticias más recientes, entre otros datos.
 
-Ilustración 3 - Página principal sistema Media Watch.
+![Imagen 30](images/image_30.png)
+```Ilustración 3 - Página principal sistema Media Watch.```
 
 ## Personalizar Sistema por Usuario
 
 En la sección inferior derecha del sistema, en cualesquiera de sus opciones de menú, se puede activar/desactivar el modo oscuro. Esta característica del sistema se activa/desactiva por usuario, por lo que opera de manera individual.
-
-Ilustración 4 - Portal de acceso Media Watch Modo Oscuro.
+![Imagen 55](images/image_55.png)
+```Ilustración 4 - Portal de acceso Media Watch Modo Oscuro.```
 
 ## Recuperar Clave de Acceso
 
 El sistema cuenta con la facilidad de recuperar tu contraseña si la has olvidado. Sólo debes pulsar la opción “¿Olvidaste tu contraseña?”
 
-Ilustración 5 - Portal de acceso Media Watch.
+![Imagen 8](images/image_8.png)
+```Ilustración 5 - Portal de acceso Media Watch.```
 
 Esta opción te dirigirá a un nuevo enlace que solicitará tu usuario o correo electrónico registrado y pulsas el botón “Enviar”. Si no deseamos ejecutar esta opción, sólo debes hacer clic sobre la opción “Regresar”.
 
-Ilustración 6 - Solicitar recuperación de contraseña.
+![Imagen 81](images/image_81.png)
+```Ilustración 6 - Solicitar recuperación de contraseña.```
 
 En la nueva Ventana, debe colocar el código de acceso que llegó a tu correo, tomar en cuenta que este código tiene un tiempo de validez definido por lo que debes culminar el proceso de cambio a tiempo. Colocar la nueva clave y confirmarla. Pulsa la opción “Enviar” una vez completes todos los datos.
 
-Ilustración 7 - Recuperar contraseña con código de acceso.
+![Imagen 104](images/image_104.png)
+```Ilustración 7 - Recuperar contraseña con código de acceso.```
 
 # DATOS DE CUENTA
 
@@ -82,7 +83,8 @@ Desde cualquier lugar en el sistema, puedes acceder a los datos de tu cuenta, ha
 
 - Salir del sistema.
 
-Ilustración 8 – Datos de tu cuenta.
+![Imagen 6](images/image_6.png)
+```Ilustración 8 – Datos de tu cuenta.```
 
 ## Mi Perfil
 
@@ -654,11 +656,7 @@ Ilustración 102. Reporte por categorías y fecha.
 
 ![Imagen 5](images/image_5.png)
 
-![Imagen 6](images/image_6.png)
-
 ![Imagen 7](images/image_7.png)
-
-![Imagen 8](images/image_8.png)
 
 ![Imagen 9](images/image_9.png)
 
@@ -701,8 +699,6 @@ Ilustración 102. Reporte por categorías y fecha.
 ![Imagen 28](images/image_28.png)
 
 ![Imagen 29](images/image_29.png)
-
-![Imagen 30](images/image_30.png)
 
 ![Imagen 31](images/image_31.png)
 
@@ -751,8 +747,6 @@ Ilustración 102. Reporte por categorías y fecha.
 ![Imagen 53](images/image_53.png)
 
 ![Imagen 54](images/image_54.png)
-
-![Imagen 55](images/image_55.png)
 
 ![Imagen 56](images/image_56.png)
 
@@ -804,8 +798,6 @@ Ilustración 102. Reporte por categorías y fecha.
 
 ![Imagen 80](images/image_80.png)
 
-![Imagen 81](images/image_81.png)
-
 ![Imagen 82](images/image_82.png)
 
 ![Imagen 83](images/image_83.png)
@@ -849,8 +841,6 @@ Ilustración 102. Reporte por categorías y fecha.
 ![Imagen 102](images/image_102.png)
 
 ![Imagen 103](images/image_103.png)
-
-![Imagen 104](images/image_104.png)
 
 ![Imagen 105](images/image_105.png)
 
