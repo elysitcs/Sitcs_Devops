@@ -17,6 +17,7 @@ Media Watch es una herramienta creada a la medida de las necesidades de la empre
 
 Para acceder a la plataforma, el administrador les crea sus usuarios con su dirección de correo electrónica y sus datos generales, al final, va a recibir un correo con las siguientes informaciones: usuario y contraseña temporal para acceder al sistema a través de un enlace de activación de cuenta. Solo debe ingresar con las credenciales que ha recibido en el correo electrónico para acceder a la aplicación.
 
+![Imagen 109](images/image_109.png)
 Ilustración 1. Ejemplo de correo recibido por parte de la plataforma MediaWatch.
 
 ```bash
@@ -858,8 +859,6 @@ Ilustración 102. Reporte por categorías y fecha.
 ![Imagen 107](images/image_107.png)
 
 ![Imagen 108](images/image_108.png)
-
-![Imagen 109](images/image_109.png)
 
 ![Imagen 110](images/image_110.png)
 
