@@ -120,19 +120,23 @@ Para regresar a nuestro perfil de usuario y accesos, sólo debemos hacer clic en
 
 Una vez nos encontramos en la página principal del sistema o en cualquier otra sección, tendrás disponible en la barra superior derecha, un buscado de noticias. Allí escribes las palabras que entiendas se relacionan con la noticia que deseas buscar y te presentará las coincidencias.
 
-Ilustración 14 - Búsqueda general de noticias.
+![Imagen 70](images/image_70.png)
+```Ilustración 14 - Búsqueda general de noticias.```
 
 Al hacer clic sobre la noticia deseada, te mostrará la noticia detallada donde tienes opción de visualizarla haciendo clic sobre la imagen o imprimirla pulsando el botón “Print” en el margen superior derecho.
 
-Ilustración 15 - Visualización de noticias.
+![Imagen 94](images/image_94.png)
+```Ilustración 15 - Visualización de noticias.```
 
-Ilustración 16 - Visualización de noticias ampliada.
+![Imagen 119](images/image_119.png)
+```Ilustración 16 - Visualización de noticias ampliada.```
 
 # DASHBOARD
 
 El Dashboard está visible como portada cuando accedemos al sistema y es la primera opción de menú disponible. Este nos permite tener una vista de rápida de los indicadores o métricas de interés y cuenta con la información actualizada al momento de ingresar o de acceder a esta opción. La misma puede ser actualizar al hacer clic sobre la opción en el margen superior derecho.
 
-Ilustración 17 - Dashboard
+![Imagen 30](images/image_30.png)
+```Ilustración 17 - Dashboard```
 
 En el margen superior derecho, el Dashboard presenta los últimos clientes registrados, donde al pulsar el botón “Ver más” nos dirige a la opción de registro de clientes cuya portada es el reporte de clientes.
 
