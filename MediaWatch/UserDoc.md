@@ -113,6 +113,7 @@ Visualizamos el sistema tal como lo observa el cliente y tendremos acceso a las 
 
 ![Imagen 20](images/image_20.png)
 ```Ilustración 13 - Visualización del sistema para el cliente emulado.```
+![Imagen 44](images/image_44.png)
 
 Para regresar a nuestro perfil de usuario y accesos, sólo debemos hacer clic en la X de cierre de emulación.
 
